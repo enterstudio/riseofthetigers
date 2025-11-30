@@ -6,3 +6,4 @@ datetime
 django-stdimage
 beautifulsoup4
 django-taggit
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
